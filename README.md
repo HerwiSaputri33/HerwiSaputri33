@@ -30,8 +30,8 @@ Passionate developer who loves building clean, modern, and impactful digital pro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herwiisaputra&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herwiisaputra&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HerwiSaputri33&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerwiSaputri33&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
