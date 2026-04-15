@@ -47,7 +47,7 @@ Passionate developer who loves building clean, modern, and impactful digital pro
 ## 🌐 Connect with Me
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/herwiisaputra?igsh=MXFydmwzejA0bzg4Zw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:herwiisaputra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
